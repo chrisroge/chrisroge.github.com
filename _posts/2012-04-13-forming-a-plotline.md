@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Forming a plotline"
+description: "Renewing push for a story outline, fleshing out the big ideas."
+category: 
+tags: [dramatica, angels, ftl, fiction]
+---
+{% include JB/setup %}
+So I have a premise for a solid science fiction story in mind.  The universe is brimming with life and that life is largely human.  The essence is that God created humankind in his own image (challenge to interpret “image” meaning physical, moral, psychological, emotional or perhaps all of these concepts are far too mortal to even apply?) and that God did not stop with Earth.  Some hard questions need to be asked early on:
+
+Why would God select one lonely planet in an uninteresting part of an uninteresting galaxy to host all creatures made in his own image (hard to avoid “his”, need to noodle on that a while) and yet leave the remainder of the cosmos to suffer in any objective comparison?
+
+How could humans evolve independently upon multiple worlds, separated by such vast oceans of space so that there could be no chance for any intermingling of the stuff that makes us who we are?  We open with the revelation that humans exist on other worlds – I've not yet decided how that will play out but it will be important that it is understood as a revelation and that initially the big question is less about who these “people” are, will they pose a threat or grace Earth bound humans with gifts, and more so – how could they be human?
+
+Obviously the former question is answered with a resounding “of course he did not stop with Earth because we now find indisputable evidence that humans are on at least one other world."  The later question is answered as the story unfolds.  There must be a vehicle for which humans could have been dispersed throughout the cosmos.  Simple!  “God placed them there!” you say.  Well, that is all well and good and any understanding of the infinite nature of the divine would agree and not dare to probe further, however our characters must probe further as they are people of science who do not handily discard theory of evolution.
+
+So what is this vehicle?  Who are these farmers who scatter the seed of humankind to world upon world?  How do we overcome the impossibility of faster than light travel yet still allow these farmers to sow their humanly crops?  The answer as it turns out is once again rooted firmly in divine teaching – angels.  watchers, messengers of God.  Angels of God can travel faster than light as they understand the laws of quantum mechanics and are governed by what 21st century scientists might regard as “the physics of the very small”.
+
+Anyway, that is where I am and have been stuck for a while now.  Next tasks, continue research into specific angels from divine writings and historical/popular text to refine a few key actors.  Probably need to refocus on completing my read of Dramatica as well.
